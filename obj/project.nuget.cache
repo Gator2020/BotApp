@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rkNp5daK0oSqzPGyvY51TQRZSwJntoz3wtI2DdNxjnO1/p/9VBgtrkAB8iDr4sajDslo7giW65XVCt5s39gs9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\naomi\\source\\repos\\BotApp\\BotApp\\BotApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naomi\\.nuget\\packages\\microsoft.web.webview2\\1.0.2420.47\\microsoft.web.webview2.1.0.2420.47.nupkg.sha512"
+  ],
+  "logs": []
+}

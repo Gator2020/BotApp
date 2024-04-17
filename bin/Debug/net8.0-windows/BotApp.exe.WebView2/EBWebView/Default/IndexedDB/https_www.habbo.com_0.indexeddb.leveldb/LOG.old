@@ -1,0 +1,12 @@
+2024/04/17-01:01:27.595 4bc8 Reusing MANIFEST C:\Users\naomi\source\repos\BotApp\BotApp\bin\Debug\net8.0-windows\BotApp.exe.WebView2\EBWebView\Default\IndexedDB\https_www.habbo.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/17-01:01:27.596 4bc8 Recovering log #56
+2024/04/17-01:01:27.638 4bc8 Reusing old log C:\Users\naomi\source\repos\BotApp\BotApp\bin\Debug\net8.0-windows\BotApp.exe.WebView2\EBWebView\Default\IndexedDB\https_www.habbo.com_0.indexeddb.leveldb/000056.log 
+2024/04/17-01:01:30.942 6e78 Level-0 table #61: started
+2024/04/17-01:01:30.979 6e78 Level-0 table #61: 755599 bytes OK
+2024/04/17-01:01:30.982 6e78 Delete type=0 #56
+2024/04/17-01:01:31.003 6e78 Compacting 1@1 + 1@2 files
+2024/04/17-01:01:31.043 6e78 Generated table #62@1: 2583 keys, 1811392 bytes
+2024/04/17-01:01:31.043 6e78 Compacted 1@1 + 1@2 files => 1811392 bytes
+2024/04/17-01:01:31.044 6e78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/17-01:01:31.045 6e78 Delete type=2 #58
+2024/04/17-01:01:31.045 6e78 Delete type=2 #61
